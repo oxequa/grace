@@ -9,5 +9,5 @@
   <a href="https://gitter.im/oxequa/grace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://img.shields.io/gitter/room/oxequa/grace.svg?style=flat-square" alt="Gitter"></a>
 </p>
 <hr>
-<h3 align="center">Handle recover, panic and errors in a graceful way.</h3>
+<h3 align="center">Handle recover, panic and errors in a graceful way</h3>
 <hr>
