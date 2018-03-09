@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://i.imgur.com/8b6ngnu.png" width="125px">
-</div>
+</p>
 <p align="center">
   <a href="https://travis-ci.org/oxequa/grace"><img src="https://img.shields.io/travis/oxequa/grace.svg?style=flat-square" alt="Build status"></a>
   <a href="https://goreportcard.com/report/github.com/oxequa/grace"><img src="https://goreportcard.com/badge/github.com/oxequa/grace?style=flat-square" alt="GoReport"></a>
