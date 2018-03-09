@@ -11,3 +11,19 @@
 <hr>
 <h3 align="center">Handle recover, panic and errors in a graceful way</h3>
 <hr>
+
+## Quickstart
+
+`go get github.com/oxequa/grace`
+
+## Documentation
+
+You can read the full documentation of Grace here.
+
+## Contributing
+
+Please read our guideline [here](CONTRIBUTING.md)
+
+## License
+
+Grace is licensed under the [GNU GENERAL PUBLIC LICENSE V3](LICENSE)
