@@ -11,3 +11,6 @@
 <hr>
 <h3 align="center">Handle recover, panic and errors in a graceful way</h3>
 <hr>
+
+
+[![Join the chat at https://gitter.im/oxequa/grace](https://badges.gitter.im/oxequa/grace.svg)](https://gitter.im/oxequa/grace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
