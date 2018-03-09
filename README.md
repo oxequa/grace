@@ -14,7 +14,9 @@
 
 ## Quickstart
 
-`go get github.com/oxequa/grace`
+```
+go get github.com/oxequa/grace
+```
 
 ## Documentation
 
