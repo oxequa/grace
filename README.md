@@ -24,8 +24,8 @@ You can read the full documentation of Grace here.
 
 ## Contributing
 
-Please read our guideline [here](CONTRIBUTING.md)
+Please read our guideline [here](CONTRIBUTING.md).
 
 ## License
 
-Grace is licensed under the [GNU GENERAL PUBLIC LICENSE V3](LICENSE)
+Grace is licensed under the [GNU GENERAL PUBLIC LICENSE V3](LICENSE).
