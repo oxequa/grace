@@ -20,7 +20,7 @@ go get github.com/oxequa/grace
 
 ## Documentation
 
-You can read the full documentation of Grace here.
+You can read the [full documentation of Grace here](https://grace.oxequa.com).
 
 ## Contributing
 
