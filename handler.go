@@ -18,9 +18,9 @@ func Handler(e error) *Handlers {
 func (h *Handlers) Loop() error {
 	switch err := h.err.(type) {
 	case *grace:
-		for _, elmE := range err.errors {
+		for index := range err.errors {
 			for _, elmH := range err.handlers {
-				elmE = elmH(elmE)
+				err.errors[index] = elmH(err.errors[index])
 			}
 		}
 	}
