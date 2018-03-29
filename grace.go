@@ -52,7 +52,7 @@ func Def(e error, v ...interface{}) error {
 	return e
 }
 
-// Def if error is not nil return a new error with the interface as error value.
+// Set if error is not nil return a new error with the interface as error value.
 func Set(e error, v ...interface{}) error {
 	if !Empty(e) {
 		return New(v...)
